@@ -1,4 +1,9 @@
 this is c1 from master
 this is c2 from master
+<<<<<<< HEAD
 this is c5 from master
 this is c6 from master
+=======
+this is c3 from server
+this is c8 from client
+>>>>>>> c8 from client
