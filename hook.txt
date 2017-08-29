@@ -1,2 +1,2 @@
 from commit-msg
-add 123
+add 567
