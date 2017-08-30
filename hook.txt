@@ -1,2 +1,0 @@
-from commit-msg
-add 5678
